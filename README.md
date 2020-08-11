@@ -74,7 +74,7 @@ In this section, you import MagSubgraphGeneration.py as a notebook in Azure Data
 
 1. Import `SpecifiedPaperIdsTable` (If you want example paper ids, please check [Official MAG/CORD-19 releases](https://github.com/microsoft/mag-covid19-research-examples/blob/master/src/data/releases.md))
 
-1. Click **Run All** button. It could take about 20-30 minutes to run on standard cluster. 
+1. Click **Run All** button. It could take 30 - 90 minutes to run on standard cluster. 
 
 
 ## Clean up resources
